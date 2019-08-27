@@ -15,6 +15,8 @@
 		041CE5A222C9FB570082B323 /* ChainForUILabelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041CE5A122C9FB570082B323 /* ChainForUILabelTests.swift */; };
 		041CE5AD22C9FB570082B323 /* ChainForUILabelUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041CE5AC22C9FB570082B323 /* ChainForUILabelUITests.swift */; };
 		041CE5BB22C9FB630082B323 /* UILabel_Chain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 041CE5BA22C9FB630082B323 /* UILabel_Chain.swift */; };
+		0E05B51F2315358800663340 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E05B51E2315358800663340 /* Person.swift */; };
+		0E05B5212315359000663340 /* Car.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E05B5202315359000663340 /* Car.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		041CE5AC22C9FB570082B323 /* ChainForUILabelUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChainForUILabelUITests.swift; sourceTree = "<group>"; };
 		041CE5AE22C9FB570082B323 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		041CE5BA22C9FB630082B323 /* UILabel_Chain.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UILabel_Chain.swift; sourceTree = "<group>"; };
+		0E05B51E2315358800663340 /* Person.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		0E05B5202315359000663340 /* Car.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Car.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,8 @@
 				041CE58C22C9FB560082B323 /* AppDelegate.swift */,
 				041CE58E22C9FB560082B323 /* ViewController.swift */,
 				041CE5BA22C9FB630082B323 /* UILabel_Chain.swift */,
+				0E05B51E2315358800663340 /* Person.swift */,
+				0E05B5202315359000663340 /* Car.swift */,
 				041CE59022C9FB560082B323 /* Main.storyboard */,
 				041CE59322C9FB570082B323 /* Assets.xcassets */,
 				041CE59522C9FB570082B323 /* LaunchScreen.storyboard */,
@@ -261,6 +267,8 @@
 			files = (
 				041CE58F22C9FB560082B323 /* ViewController.swift in Sources */,
 				041CE58D22C9FB560082B323 /* AppDelegate.swift in Sources */,
+				0E05B5212315359000663340 /* Car.swift in Sources */,
+				0E05B51F2315358800663340 /* Person.swift in Sources */,
 				041CE5BB22C9FB630082B323 /* UILabel_Chain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
